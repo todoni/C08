@@ -6,17 +6,17 @@
 /*   By: sohan <sohan@student.42seoul.kr>           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/04/11 22:21:29 by sohan             #+#    #+#             */
-/*   Updated: 2021/04/11 22:52:21 by sohan            ###   ########.fr       */
+/*   Updated: 2021/04/12 20:17:21 by sohan            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef	__FT_POINT_H__
-# define	__FT_POINT_H__
+#ifndef FT_POINT_H
+# define FT_POINT_H
 
 typedef	struct	s_point
 {
 	int	x;
 	int	y;
-}		t_point;
+}				t_point;
 
 #endif

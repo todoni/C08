@@ -6,13 +6,13 @@
 /*   By: sohan <sohan@student.42seoul.kr>           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/04/11 22:10:54 by sohan             #+#    #+#             */
-/*   Updated: 2021/04/11 22:16:47 by sohan            ###   ########.fr       */
+/*   Updated: 2021/04/12 20:16:12 by sohan            ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef	__FT_ABS_H__
-# define	__FT_ABS_H__
+#ifndef FT_ABS_H
+# define FT_ABS_H
 
-# define	ABS(Value)	Value > 0 ? Value : -Value
+# define ABS(Value) Value > 0 ? Value : -Value
 
 #endif
